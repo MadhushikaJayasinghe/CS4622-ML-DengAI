@@ -5,10 +5,5 @@ Group Name : cseuom_omega14	 |	 Best Rank : 80		 | 	Current Rank : 91
 
 Group Members
 
-Index Number		Name
-
-140088L		      B.P.A. Cooray
-140250D		      K.H.M.Jayasinghe 
-140306G		      S.Kirisanth
-140321X		      P. P. Kumara
+140088L		      B.P.A. Cooray | 140250D		      K.H.M.Jayasinghe | 140306G		      S.Kirisanth | 140321X		      P. P. Kumara
 
